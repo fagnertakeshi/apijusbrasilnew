@@ -1,3 +1,13 @@
+## DataJUD API
+
+This repository exposes a small sample of the DataJUD dataset using Flask.
+Run `pip install -r requirements.txt` and `python server.py` to start the server.
+
+Available endpoints:
+- `/datajud` returns all records.
+- `/datajud/<id>` returns a single record.
+
+
 ## Getting Started
 
 We provide a sample app using Python that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.

@@ -1,0 +1,6 @@
+id,numero,assunto,tribunal,vara,data_distribuicao
+1,000001-00.2021.5.01.0001,Execucao Fiscal,TJSP,1a Vara,2021-01-10
+2,000002-00.2021.5.01.0001,Cobranca,TJSP,2a Vara,2021-02-12
+3,000003-00.2021.5.01.0002,Despejo,TJMG,3a Vara,2021-03-05
+4,000004-00.2021.5.01.0003,Inventario,TJPR,4a Vara,2021-04-08
+5,000005-00.2021.5.01.0004,Divorcio,TJRJ,5a Vara,2021-05-20
